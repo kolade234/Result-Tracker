@@ -7,7 +7,7 @@ This is a Reuslt Tracker software i wrote with C++
 -Calculates them
 -Displays the result in percentage and tells you if you passed or failed
 
-# Built with it
+# Built it with
 -C++
 -Visual studio code
 
